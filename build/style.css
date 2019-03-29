@@ -1,0 +1,17 @@
+body{
+    background-color:white !important;
+}
+.button{
+    color: beige !important
+}
+@media only screen and (max-width: 600px) {
+    .image {
+      visibility: none;
+    }
+  }
+
+  .asd{
+    border: 2px;
+    borderColor: aqua;
+    borderStyle: solid
+  }
